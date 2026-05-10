@@ -1,12 +1,16 @@
-.home-background {
+.recipe-background {
     background-color: bisque;
 }
 
 .recipe-link {
-    font-family: serif ;
+    font-family: monospace ;
     font-size: larger;
 }
 
 .hero-image {
     width: 400px;
+}
+
+.home-button-div {
+    margin-bottom: 15px;
 }
